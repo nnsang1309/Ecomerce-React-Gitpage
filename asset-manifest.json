@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react-gitpage/static/css/main.4752bcb6.css",
+    "main.js": "/ecommerce-react-gitpage/static/js/main.8c45383e.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommerce-react-gitpage/static/js/787.dcc73137.chunk.js",
+    "index.html": "/ecommerce-react-gitpage/index.html",
+    "main.4752bcb6.css.map": "/ecommerce-react-gitpage/static/css/main.4752bcb6.css.map",
+    "main.8c45383e.js.map": "/ecommerce-react-gitpage/static/js/main.8c45383e.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommerce-react-gitpage/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4752bcb6.css",
+    "static/js/main.8c45383e.js"
+  ]
+}
